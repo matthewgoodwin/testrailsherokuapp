@@ -1,3 +1,5 @@
+# must tell heroku which version of ruby to use
+ruby '2.3.1'
 source 'https://rubygems.org'
 
 
